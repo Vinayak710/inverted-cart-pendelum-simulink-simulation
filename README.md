@@ -12,3 +12,6 @@ The results — including the cart position and pendulum angle — will be displ
 Make sure all required parameters (e.g., M, m, l, g) are set in the MATLAB workspace if the model depends on them.
 
 I have also uploaded the research paper by (XU Chen 2016), which containsthe  equation of motion of ICP
+Hardware implementation was done using TIVA C microcontroller 
+![image](https://github.com/user-attachments/assets/f25db1cd-7349-4655-b3f6-1b36b8a0743a)
+
